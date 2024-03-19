@@ -10,7 +10,10 @@ The way we communicate with the AC is using IR codes. We’re going to use an IR
 The transmitter circuit will be operated by a micro controller called ESP that also able to connect to WiFi. The ESP will sample the Firebase database every 500 milliseconds to see if a new order from the user has received.
 The user will operate the system from an app on a smartphone. Using the app, the user can create as much AC’s profile as needed and record codes for them. When the user sends an order to the AC, the app connects to Firebase and change a set of values. Then, the micro-controller, at a sample time, will see the current order and operate the circuit to execute the user’s command.
 
-<center><img src="Images/img1 - General.png" alt="Image 1" width=500><figcaption>General Concept Illustration</figcaption></center>
+<div style="text-align:center;">
+  <img src="Images/img1 - General.png" alt="Image 1" width=500>
+  <figcaption>General Concept Illustration</figcaption>
+</div>
 
 
 ## The System
