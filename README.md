@@ -39,7 +39,7 @@ All those system are operating together to receive an order from the user and se
 ![image](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote/assets/70516072/520ec827-c8c9-458f-9200-859ce0e58365)
 
 ![image](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote/assets/70516072/3b938212-6b91-4d1f-903c-1bb0cb05c704)
-![Image Alt Text](image_url "Caption Text")
+<figcaption>Caption Text</figcaption>
 
 ## Summary and Conclusions 
  
