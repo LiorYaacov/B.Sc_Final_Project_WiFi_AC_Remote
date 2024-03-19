@@ -25,7 +25,7 @@ Storage database – running on Google’s Firebase
 All those system are operating together to receive an order from the user and send the requested code to the AC as fast as possible while maintaining reliability.
 
 <p align="center">
-  <img src="Images/img2 - Flow" alt="System Flow" width=500>
+  <img src="Images/img2 - Flow.png" alt="System Flow" width=500>
 </p>
 
 
@@ -48,9 +48,6 @@ All those system are operating together to receive an order from the user and se
 
 <p align="center">
   <img src="Images/img5 - App.png" alt="App" width=500>
-</p>
-
-<p align="center">
   <img src="Images/img6 - MIT App Inventor.png" alt="MIT App Inventor" width=500>
 </p>
 
