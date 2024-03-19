@@ -47,7 +47,7 @@ All those system are operating together to receive an order from the user and se
 </p>
 
 <p align="center">
-  <img src="Images/img5 - App.png" alt="App" width=500>
+  <img src="Images/img5 - App.png" alt="App" width=200>
   <img src="Images/img6 - MIT App Inventor.png" alt="MIT App Inventor" width=500>
 </p>
 
