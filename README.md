@@ -9,7 +9,9 @@ The main idea behind this project is to make our home smarter. That means that e
 The way we communicate with the AC is using IR codes. We’re going to use an IR LED and a special ability of the Arduino’s I/O pins to draw current through the LED for a very specific segments of time. It’s called PWM, which stands for Pulse Width Modulation. This code will be received in the AC receiver and command the AC to switch its mode.
 The transmitter circuit will be operated by a micro controller called ESP that also able to connect to WiFi. The ESP will sample the Firebase database every 500 milliseconds to see if a new order from the user has received.
 The user will operate the system from an app on a smartphone. Using the app, the user can create as much AC’s profile as needed and record codes for them. When the user sends an order to the AC, the app connects to Firebase and change a set of values. Then, the micro-controller, at a sample time, will see the current order and operate the circuit to execute the user’s command.
-![image](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote/assets/70516072/caefb5b9-e9b9-4aa9-9ef0-065e6a4d1896)
+
+<img src="Images/img1 - General.png" alt="Image 1">
+<figcaption>Caption Text</figcaption>
 
 
 ## The System
@@ -39,7 +41,6 @@ All those system are operating together to receive an order from the user and se
 ![image](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote/assets/70516072/520ec827-c8c9-458f-9200-859ce0e58365)
 
 ![image](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote/assets/70516072/3b938212-6b91-4d1f-903c-1bb0cb05c704)
-<figcaption>Caption Text</figcaption>
 
 ## Summary and Conclusions 
  
