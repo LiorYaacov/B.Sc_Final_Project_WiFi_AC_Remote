@@ -1,4 +1,4 @@
-# B.Sc_Final_Project_WiFi_AC_Remote
+# B.Sc Final Project: WiFi AC Remote
 
 ## Abstract
 
